@@ -48,6 +48,4 @@ This will open the Image Watermarking Tool window.
 
 Sujit
 
-## License
 
-[Optional: Add a license if you have one, e.g., MIT License]

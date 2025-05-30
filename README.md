@@ -48,4 +48,5 @@ This will open the Image Watermarking Tool window.
 
 Sujit
 
-
+## 📜 License
+This project is for educational purposes. Feel free to modify and improve it!
